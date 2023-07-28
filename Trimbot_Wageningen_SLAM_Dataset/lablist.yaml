@@ -1,0 +1,64 @@
+#  In Trimbot Wageningen SLAM Dataset, there are 20 classes in all.
+#  LN means the label value is equal to N.
+#  'name' is the object's name
+
+L0:
+  name: Unknown
+
+L1:
+  name: Ground-Generic
+
+L2:
+  name: Ground-Grass
+
+L3:
+  name: Ground-Dirt
+
+L6:
+  name: Ground-Pebbles
+
+L7:
+  name: Ground-WoodChips
+
+L8:
+  name: Ground-Pavement
+
+L10:
+  name: Hedge-Box
+
+L11:
+  name: Hedge-Ivy
+
+L13:
+  name: Topiary-Generic
+
+L15:
+  name: Topiary-Ellipsoid
+
+L18:
+  name: Rose-Generic
+
+L24:
+  name: Obstacle-Generic
+
+L26:
+  name: Obstacle-Tree
+
+L27:
+  name: Obstacle-Fence
+
+L33:
+  name: Obstacle-Post
+
+L34:
+  name: Obstacle-Trunk
+
+L37:
+  name: Robot-Vehicle
+
+L39:
+  name: Background-Generic
+
+L41:
+  name: Background-House
+

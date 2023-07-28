@@ -1,8 +1,8 @@
 # Trimbot-Wageningen-SLAM-Dataset
 This dataset is a real outdoor garden dataset captured in Wageningen for Trimbot2020 project. The dataset could be used for depth estimation,  pose estiamtion, SLAM, 3D reconstruction, etc. .
 
-The dataset will come out soon... ...
-
+### Usage
+Before using the dataset, please read the manual 'Trimbot-Wageningen-SLAM-Dataset-Manual.pdf' first.
 
 ### Citation
 ```
@@ -17,3 +17,8 @@ The dataset will come out soon... ...
 }
 
 ```
+
+### Contacts
+can.pu@amigaga.com
+
+Any discussions or concerns are welcomed!
